@@ -205,6 +205,10 @@
   #include "ramps/pins_TENLOG_D3_HERO.h"        // ATmega2560                             env:mega2560
 #elif MB(MKS_GEN_L_V21)
   #include "ramps/pins_MKS_GEN_L_V21.h"         // ATmega2560                             env:mega2560
+#elif MB(JGA_Z603S_A)
+  #include "jgauroraz603s/pins_JGA_Z603S_A.h"  
+#elif MB(JGA_Z603S_B)
+  #include "jgauroraz603s/pins_JGA_Z603S_B.h"  
 
 //
 // RAMBo and derivatives

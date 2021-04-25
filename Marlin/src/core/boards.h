@@ -109,6 +109,8 @@
 #define BOARD_COPYMASTER_3D           1153  // Copymaster 3D
 #define BOARD_ORTUR_4                 1154  // Ortur 4
 #define BOARD_TENLOG_D3_HERO          1155  // Tenlog D3 Hero IDEX printer
+#define BOARD_JGA_Z603S_A                   1156
+#define BOARD_JGA_Z603S_B                   1157
 
 //
 // RAMBo and derivatives
