@@ -184,9 +184,9 @@
 #elif MB(MKS_GEN_L_V21)
   #include "ramps/pins_MKS_GEN_L_V21.h"         // ATmega2560                             env:mega2560
 #elif MB(JGA_Z603S_A)
-  #include "jgauroraz603s/pins_JGA_Z603S_A.h"  
+  #include "jgauroraz603s/pins_JGA_Z603S_A.h"   // ATmega2560                             env:mega2560
 #elif MB(JGA_Z603S_B)
-  #include "jgauroraz603s/pins_JGA_Z603S_B.h"  
+  #include "jgauroraz603s/pins_JGA_Z603S_B.h"   // ATmega2560                             env:mega2560
 
 //
 // RAMBo and derivatives
