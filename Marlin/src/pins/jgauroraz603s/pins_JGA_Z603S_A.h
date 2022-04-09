@@ -38,6 +38,11 @@
 	#define Z_MAX_PIN          -1
 	#define SERVO0_PIN		    5 // Y+ auf Board
 
+	// Runout Sensor
+	#ifndef FIL_RUNOUT_PIN
+		#define FIL_RUNOUT_PIN  2
+	#endif
+	
 	//extruder pins
 	#define E0_STEP_PIN        26
 	#define E0_DIR_PIN         28
