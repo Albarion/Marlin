@@ -2010,7 +2010,7 @@
   #define PROBE_PT_2_X 80
   #define PROBE_PT_2_Y 30
   #define PROBE_PT_3_X 200
-  #define PROBE_PT_3_Y 30
+  #define PROBE_PT_3_Y 90
 #endif
 
 /**
